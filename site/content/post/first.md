@@ -5,4 +5,6 @@ title: first
 description: test
 image: img/giphy.gif
 ---
-test 123
+test 123 
+
+![test](img/giphy.gif "tset")
